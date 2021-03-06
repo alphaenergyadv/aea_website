@@ -1,0 +1,30 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Alpha Energy Advisors"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+# googleAnalytics = "your-google-analytics-id"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "A double-premium oil and gas investment firm"
+  logo = "images/rig.jpg"
+  favicon = true
+
+[Params.social]
+  email = "john@alphaenergyadvisors.com"
+  github = "https://github.com/alphaenergyadv"
+  twitter = "https://twitter.com/caressofsteel_"
+  linkedin = "www.linkedin.com/in/johntchaplin"
