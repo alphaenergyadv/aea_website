@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 ## -----------------------------------------------
 
 [Params]
-  description = "A double-premium oil and gas investment firm"
+  description = "Buyer and seller of oil and gas well interests - mineral rights, royalty interests, and non-operated working interests"
   logo = "images/rig.jpg"
   favicon = true
 

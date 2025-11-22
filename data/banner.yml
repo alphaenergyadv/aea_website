@@ -1,11 +1,23 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Alpha Energy"
+title : "Alpha Energy Advisors"
 subtitle: |
-  Alpha Energy Advisors, LLC is an active buyer of producing mineral, royalty and non-operated interests in L48 assets.
+  Alpha Energy Advisors, LLC is an active buyer and seller of producing oil and gas well interests, specializing in mineral rights, royalty interests, and non-operated working interests in Lower 48 assets.
 content : |
-  Our investment team is lead by industry veterans with over <strong>$30 billion</strong> in deal experience. We look to do business with owners by 
-  completing deals fair and transparently. We buy to own interests for the long term. Reach out below if you have interests you would like to sell.
+  Our investment team is led by industry veterans with over <strong>$30 billion</strong> in deal experience. We provide liquidity solutions for owners looking to monetize their oil and gas interests while also acquiring strategic positions for long-term value creation.
+
+  <strong>What We Buy:</strong>
+  • Mineral Rights & Royalty Interests
+  • Non-Operated Working Interests
+  • Overriding Royalty Interests (ORRI)
+  • Net Revenue Interests (NRI)
+
+  <strong>What We Sell:</strong>
+  • Curated portfolio of producing assets
+  • Non-core interests from our inventory
+  • Partnership opportunities in premium basins
+
+  We complete transactions fairly and transparently, whether you're looking to buy or sell. Reach out below to discuss your oil and gas interests.
 button:
   label : "Contact Us"
   link : "mailto:john@alphaenergyadvisors.com"
