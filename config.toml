@@ -11,7 +11,7 @@ theme = "hugo-story"
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
-# googleAnalytics = "your-google-analytics-id"
+googleAnalytics = "G-XXXXXXXXXX"  # Replace with your actual Google Analytics 4 measurement ID
 
 
 ## -----------------------------------------------
@@ -20,6 +20,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [Params]
   description = "Buyer and seller of oil and gas well interests - mineral rights, royalty interests, and non-operated working interests"
+  keywords = "oil and gas interests, mineral rights, royalty interests, non-operated working interests, buy mineral rights, sell mineral rights, oil and gas buyer, royalty buyer, ORRI, NRI, Lower 48 assets, oil and gas investment, mineral rights buyer, sell royalty interest, buy royalty interest"
+  author = "Alpha Energy Advisors, LLC"
   logo = "images/rig.jpg"
   favicon = true
 
